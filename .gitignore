@@ -1,0 +1,15 @@
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Large ZIP files (use Drive link instead)
+*.zip
+
+# inventory file
+inventory.db
